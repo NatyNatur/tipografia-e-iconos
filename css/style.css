@@ -1,0 +1,42 @@
+#contenedor {
+	text-align: center;
+	display: table;
+	margin: auto;
+}
+
+.icons {
+	background-color: #EFF2F4;
+	color: #66666D;
+	width: 250px;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+	margin-right: 5px;
+	box-shadow: 2px 2px 5px #999;
+}
+
+.icons:hover {
+	background-color: #F9F9F9;
+	color: #348DD8;
+	cursor: pointer;
+}
+
+.fa {
+	font-size: 40px;
+	margin: 5px;
+}
+
+h3 {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 22px;
+}
+
+h4 {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 15px;
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 16px;
+}
